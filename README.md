@@ -1,5 +1,3 @@
-Sure, here's a sample content for the README.md file based on the codes provided:
-
 # To-Do List App (Task Management)
 
 This is a simple To-Do List application created using React. It allows users to add new tasks, mark them as finished or unfinished, delete tasks, and sort the tasks by name or date added.
